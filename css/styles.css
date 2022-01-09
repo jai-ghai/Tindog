@@ -140,7 +140,7 @@ h2 {
 @media only screen and (max-width: 1200px) {
   .title-image {
     position: absolute;
-    right: 10%;
+    right: 20%;
     /* height: 90%%; */
   }
   .primary-heading {
@@ -160,6 +160,17 @@ h2 {
   }
   .primary-heading {
     font-size: 2rem;
+    font-weight: 500;
+  }
+  h2 {
+    font-size: 1.6rem;
+    font-weight: 400;
+  }
+  #pricing {
+    padding: 70px;
+  }
+  .cta-heading {
+    font-size: 3rem;
     font-weight: 500;
   }
 }
