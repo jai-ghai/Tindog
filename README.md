@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog Basic project for learning bootstrap
