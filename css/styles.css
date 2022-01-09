@@ -140,7 +140,7 @@ h2 {
 @media only screen and (max-width: 1200px) {
   .title-image {
     position: absolute;
-    right: 20%;
+    right: 10%;
     /* height: 90%%; */
   }
   .primary-heading {
@@ -151,7 +151,7 @@ h2 {
 @media only screen and (max-width: 992px) {
   .title-image {
     position: relative;
-    left: 20px;
+    left: 10px;
     transform: rotate(0);
     height: 100%;
   }
@@ -159,7 +159,8 @@ h2 {
     text-align: center;
   }
   .primary-heading {
-    font-weight: 700;
+    font-size: 2rem;
+    font-weight: 500;
   }
 }
 
